@@ -1,6 +1,6 @@
-### Zachary Prongua
+# Zachary Prongua
 
-# After serving in the United States Navy for 10 years, I have started my journey as a Software Engineer. I have experience with a wide range of languages, back-end to front-end.
+### After serving in the United States Navy for 10 years, I have started my journey as a Software Engineer. I have experience with a wide range of languages, back-end to front-end.
 
 ---
 
