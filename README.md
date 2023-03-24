@@ -22,7 +22,7 @@
 
 ---
 
-I am currently working on a couple projects. The first is a cookbook application. I am building a portfolio website. And I'm studying for my AWS Cloud Practitioner certification.
+I am currently working on a couple projects; a cookbook application, a portfolio website, and I'm studying for my AWS Cloud Practitioner certification.
 <!--
 [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zprongua)](https://github.com/anuraghazra/github-readme-stats)
 
