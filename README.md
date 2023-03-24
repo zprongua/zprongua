@@ -19,6 +19,7 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br>
+
 ---
 
 I am currently working on a couple projects. The first is a cookbook application. I am building a portfolio website. And I'm studying for my AWS Cloud Practitioner certification.
