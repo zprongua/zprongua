@@ -21,7 +21,7 @@
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <br>
-
+<br>
 ---
 
 I am currently working on a couple projects; a cookbook application, a portfolio website, and I'm studying for my AWS Cloud Practitioner certification.
