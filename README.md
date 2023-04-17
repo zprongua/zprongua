@@ -22,6 +22,7 @@
 
 <br>
 <br>
+
 ---
 
 I am currently working on a couple projects; a cookbook application, a portfolio website, and I'm studying for my AWS Cloud Practitioner certification.
